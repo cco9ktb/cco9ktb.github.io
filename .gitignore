@@ -1,0 +1,8 @@
+# idea files
+/.idea
+
+# MacOs files
+.DS_Store
+
+# Local files
+/_site
